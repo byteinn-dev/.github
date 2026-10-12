@@ -1,6 +1,6 @@
 <div align="center">
 
-# ByteInn · 国内用 Claude Code / Codex 的中转站
+# ByteInn · 新一代智能 AI 网关服务商
 
 **注册、充值都在国内完成，一个账号用上 Claude、GPT 等主流模型。**
 
